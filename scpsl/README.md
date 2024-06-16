@@ -1,0 +1,1 @@
+This is an image for SCP: Secret Laboratory server with Exiled plugin. It was inspired by [Parkeymon/EXILED-SCP-SL-egg](https://github.com/Parkeymon/EXILED-SCP-SL-egg) and [Parkeymon/docker-scpsl](https://github.com/Parkeymon/docker-scpsl). I'm yet to write a pterodactyl egg for this, however it'll probably be compatible with the egg from Parkeymon.

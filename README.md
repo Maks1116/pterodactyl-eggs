@@ -1,0 +1,1 @@
+Some pterodactyl eggs that I have made/modified mostly for my own use. Feel free to use them or do whatever you want with them. Credits for the original eggs are available in the README.md of each egg.
