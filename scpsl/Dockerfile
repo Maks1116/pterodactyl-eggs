@@ -11,6 +11,7 @@ RUN dpkg -i /tmp/packages-microsoft-prod.deb
 RUN rm /tmp/packages-microsoft-prod.deb
 RUN apt update
 RUN apt install -y dotnet-sdk-8.0 mono-complete
+RUN apt clean
 
 RUN adduser --home /home/container container --disabled-password --gecos "" --uid 999
 RUN usermod -a -G container container
